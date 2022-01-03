@@ -1,4 +1,4 @@
-﻿# BIL461_HW1
+﻿# C Multithreading
  
 Subjects : Unix/Linux IPC, C, Mailbox, Multithreading, Pthreads, Shared memory
 
